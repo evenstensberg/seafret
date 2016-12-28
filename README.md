@@ -1,5 +1,8 @@
 #Seafret - Minimal CLI parser
 
+`npm install --save seafret`
+
+</hr>
 #Example
 
 ```js
